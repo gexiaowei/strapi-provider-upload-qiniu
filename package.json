@@ -12,7 +12,7 @@
   },
   "main": "./lib",
   "dependencies": {
-    "qiniu": "^7.2.2"
+    "qiniu": "^7.3.3"
   },
   "strapi": {
     "isProvider": true
