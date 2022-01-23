@@ -5,7 +5,7 @@
 ### Install
 
 ```
-npm install strapi-provider-upload-qiniu --save
+npm install strapi-provider-upload-qiniu-v1 --save
 ```
 
 ### Input Config Parameter
